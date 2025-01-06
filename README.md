@@ -1,6 +1,7 @@
 # Agric_and_Climate_prediction_project
 
 This repository contains a project focused on predicting Crop Production Index in Nigeria based on agricultural and climatic variables.
+
 The project involved data cleaning, EDA, visualization and then model development.
 
 ## Aim
@@ -41,6 +42,7 @@ The dataset was divided into 2; 20% testing set and 80% training set.
 
 ### Model Evaluation
  **R-squared = 96%**
+ 
  **MSE = 46.40**
 
 Prediction was performed using random scenarios.
