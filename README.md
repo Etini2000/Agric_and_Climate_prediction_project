@@ -42,7 +42,8 @@ The dataset was divided into 2; 20% testing set and 80% training set.
  **R-squared = 96%**
  **MSE = 46.40**
 
-Prediction was performed using random scenarios
+Prediction was performed using random scenarios.
+
 The project is summarise <a href = "https://github.com/Etini2000/Agric_and_Climate_prediction_project/blob/main/3MTT%20HACKATHON%202.0%20TECH%20FOR%20GOOD!%20(1).pdf">here</a>  
 
 
